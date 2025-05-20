@@ -15,8 +15,8 @@
     <string name="result_default">0</string>
     <string name="percent_button_text">%</string>
     <string name="clear_button_text">C</string>
-    <string name="delete_button_text"><![CDATA[<-]]></string>
-    <string name="divide_button_text">/</string>
+    <string name="delete_button_text">\uf55a</string>
+    <string name="divide_button_text">\uf529</string>
     <string name="seven_button_text">7</string>
     <string name="eight_button_text">8</string>
     <string name="nine_button_text">9</string>
@@ -25,7 +25,7 @@
     <string name="five_button_text">5</string>
     <string name="six_button_text">6</string>
     <string name="minus_button_text">-</string>
-    <string name="one_button_text">1</string>
+    <string name="one_button_text">\u0031</string>
     <string name="two_button_text">2</string>
     <string name="three_button_text">3</string>
     <string name="plus_button_text">+</string>
